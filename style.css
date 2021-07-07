@@ -1,0 +1,59 @@
+body{
+    background:#5b14f3;
+    font-family:'Yomogi', cursive;
+    font-weight:bold;
+    color:white;
+}
+.header_div{
+    background:tomato;
+    color:moccasin;
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background:lightpink;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid whitesmoke;
+}
+.main_div label{
+    background:wheat;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px black;
+}
+.main_div button{
+    width:310px;
+    font-size:16px;
+    box-shadow:5px 5px 18px black;
+    border:1px solid;
+
+}
+#camera,#result{
+    border:2px solid whitesmoke;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px black;
+}
+.foot_div{
+    margin-top:10px;
+}
+.foot_div h4{
+    background:greenyellow;
+    border-radius:10px;
+    padding:5px;
+    box-shadow:5px 5px 18px black;
+}
+.foot_div img{
+    width:70px;
+}
+.copywrite_foot{
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color:darkturquoise;
+    line-height:3;
+    text-align:center;
+}
